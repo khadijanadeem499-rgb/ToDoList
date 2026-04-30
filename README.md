@@ -37,10 +37,15 @@ Works smoothly on desktop and mobile devices.
 - 📂 Project Structure
   
 todo-list/
+
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 **🚀 How to Run**
